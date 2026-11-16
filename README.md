@@ -1,4 +1,5 @@
 # Terminal Pong
+<img width="900" height="430" alt="image" src="https://github.com/user-attachments/assets/58f1dd63-f155-4524-aad3-1f7099c0e854" />
 
 A two-player Pong game for the Linux terminal, written in Python with `curses`.
 
